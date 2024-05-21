@@ -1,1 +1,1 @@
-# star_schema
+# Build a Star Schema with dbt
